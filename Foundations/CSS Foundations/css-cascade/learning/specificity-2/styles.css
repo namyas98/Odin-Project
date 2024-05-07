@@ -1,0 +1,8 @@
+#subscription {
+    background-color: yellow;
+    color: blue;
+}
+
+.main #subscription {
+    color:red;
+}
